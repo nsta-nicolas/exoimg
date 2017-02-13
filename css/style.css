@@ -1,0 +1,69 @@
+*{
+  margin: auto;
+}
+body{
+margin: 0px;
+padding: 0px;
+}
+.haut{
+  width: 100%;
+  height: 100px;
+  background-color: 38aecc;
+
+}
+#bordure{
+  border: 4px solid black;
+}
+.menu{
+  width: 100%;
+  height: 60px;
+  background-color: rgb(151, 10, 238);
+
+}
+.menu1{
+  width: 95%;
+  height: 500px;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  ;
+
+}
+p{
+  margin: 0px;
+  padding: inherit;
+}
+.a{
+  width: 50%;
+  height: 250px;
+  background-color: red;
+
+}
+.b{
+  width: 50%;
+  height: 250px;
+  background-color: blue;
+
+}
+.c{
+  width: 50%;
+  height: 250px;
+  background-color: green;
+
+}
+.d{
+  width: 50%;
+  height: 250px;
+  background-color: red;
+
+
+}
+.bas{
+  width: 100%;
+  height: 100px;
+  background-color: rgb(111, 44, 139);
+
+
+}
